@@ -1,5 +1,4 @@
-# Clinical Characteristics Model: 10-fold CV and temporal validation
-
+# Clinical Characteristics Model
 This repository provides the **R modeling pipeline** for identifying prevalent coronary heart disease (CHD) from NHANES 2007–2018 data, using a 32-predictor Clinical Characteristics Model selected upstream with LASSO.
 
 ## Workflow
