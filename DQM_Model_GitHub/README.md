@@ -1,4 +1,4 @@
-# Dietary and Questionnaire Model (DQM): 10-fold cross-validation and temporal validation
+# Dietary and Questionnaire Model (DQM)
 
 This repository contains the **R modeling and validation code** for the 30-predictor Dietary and Questionnaire Model (DQM) in NHANES 2007–2018. Selected predictors originate from upstream stable LASSO screening.
 
