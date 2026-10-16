@@ -1,0 +1,20 @@
+# Local NHANES analytical datasets
+Development_MI_*.csv
+Validation_MI_*.csv
+Integrated_final_variables.csv
+inputs/
+
+# Outputs from the modeling pipeline
+outputs/
+outputs_10fold/
+*.RData
+*.Rdata
+*.rds
+*.cbm
+*.tiff
+
+# R / RStudio local state
+.Rhistory
+.RData
+.Rproj.user/
+.Renviron

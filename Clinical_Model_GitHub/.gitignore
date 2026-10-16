@@ -1,0 +1,23 @@
+# Do not commit patient-level data or derivative individual-level files
+*.csv
+*.rds
+*.RData
+*.rda
+*.cbm
+*.zip
+*.tiff
+*.png
+*.pdf
+*.log
+*.xlsx
+*.xls
+*.parquet
+*.fst
+*.h2o
+outputs/
+Clinical_DNN_models/
+Clinical_Calibration_Plots/
+Clinical_SVM_LASSO32_10fold_perm50/
+.Rhistory
+.RData
+.Rproj.user/

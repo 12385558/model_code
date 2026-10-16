@@ -1,0 +1,17 @@
+# Sensitive and large inputs/derived data
+*.csv
+*.RData
+*.rds
+*.cbm
+*.tiff
+*.png
+*.pdf
+*.log
+*.zip
+*.html
+outputs/
+DQM_DNN_models/
+DQM_RF_perm_checkpoint/
+.Rhistory
+.Rproj.user/
+.DS_Store
